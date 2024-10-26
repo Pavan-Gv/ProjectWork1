@@ -58,10 +58,11 @@ The system will be low-cost to deploy and maintain. This is important because it
 ![image](https://github.com/user-attachments/assets/5885abae-f99c-420d-943b-a2079b12bddc)
 
 ## Results and Impact
-<!--Give the results and impact as shown below-->
-	The project successfully addresses the limitations of traditional gas detection methods by combining cutting-edge technologies. The seamless integration of IoT devices, machine learning algorithms, and cloud-based communication platforms contributes to a robust and responsive detection and alerting system. The flexibility of the system allows for easy deployment in diverse environments, enhancing public safety and environmental monitoring. 
 
-	As technology advances, the future direction of this project could involve further exploration of advanced machine learning techniques, such as deep learning, for even more precise toxicity predictions. Additionally, expanding the range of monitored gases and incorporating additional environmental parameters would contribute to a more comprehensive safety solution. Overall, this project lays a solid foundation for the continued development of intelligent and proactive systems for toxic gas detection and emergency alerting. 
+<!--Give the results and impact as shown below-->
+The project successfully addresses the limitations of traditional gas detection methods by combining cutting-edge technologies. The seamless integration of IoT devices, machine learning algorithms, and cloud-based communication platforms contributes to a robust and responsive detection and alerting system. The flexibility of the system allows for easy deployment in diverse environments, enhancing public safety and environmental monitoring. 
+
+As technology advances, the future direction of this project could involve further exploration of advanced machine learning techniques, such as deep learning, for even more precise toxicity predictions. Additionally, expanding the range of monitored gases and incorporating additional environmental parameters would contribute to a more comprehensive safety solution. Overall, this project lays a solid foundation for the continued development of intelligent and proactive systems for toxic gas detection and emergency alerting. 
 
 
 ## Articles published / References
