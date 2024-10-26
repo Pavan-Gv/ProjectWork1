@@ -8,11 +8,17 @@ In response to the imminent threat of toxic gas leaks, this project addresses th
 
 ## Features
 <!--List the features of the project as shown below-->
+
 Prevention of accidents : 
+
 The main purpose of this project is to develop a system that can detect harmful gas leakage early and warn people in the surroundings, so that accidents can be prevented. 
+
 Sensors Integration:
+
 The system will use sensors to detect harmful gases. Sensors are devices that can detect changes in the environment, such as temperature, pressure, and gas concentration. The MQ-135 gas sensor is a type of sensor that can detect a variety of harmful gases, including carbon monoxide, methane.
+
 Cost Effectiveness :
+
 The system will be low-cost to deploy and maintain. This is important because it will make the system accessible to a wider range of people and organizations. The low cost of the system will also make it more attractive to businesses and governments.
 
 ## Requirements
